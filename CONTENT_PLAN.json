@@ -1,0 +1,13 @@
+{
+  "institution": "Sreenivasa Institute of Technology and Management Studies (SITAMS)",
+  "program": "B.Tech Computer Science Engineering (AI & ML)",
+  "regulation": "R23",
+  "source": "https://sitams.ac.in/cseaiml/course-material/",
+  "syllabus": "https://sitams.ac.in/cseaiml/regulation-and-syllabus/",
+  "scope": "All-year student hub",
+  "verified_published_program_semesters": ["II Year III Semester", "II Year IV Semester", "III Year V Semester", "III Year VI Semester", "IV Year VII Semester"],
+  "first_year": "The official program-specific R23 syllabus is linked, but the current CSE(AI&ML) course-material page does not publish a first-year subject table. The app intentionally does not guess those subjects.",
+  "eighth_semester": "The current CSE(AI&ML) course-material page does not publish an VIII-semester table. The app links the official syllabus instead of inventing subjects.",
+  "quiz_rule": "Do not label a unit as verified until 30+ source-checked questions exist.",
+  "copyright": "Create original concise revision notes and link to official resources; do not copy whole copyrighted books/PDFs."
+}

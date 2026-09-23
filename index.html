@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b1220">
+  <title>Student Study Hub</title>
+
+  <!-- Professional font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="site-bg" id="siteBg"></div>
+  <div class="bg-overlay"></div>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <a class="brand" href="index.html">
+      <span class="brand-icon">🎓</span>
+      <span>Student <strong>Study Hub</strong></span>
+    </a>
+
+    <nav class="nav-links" id="navLinks">
+      <a class="active" href="index.html">Home</a>
+      <a href="pages/login.html">Materials</a>
+      <a href="pages/login.html">Quiz</a>
+      <a href="pages/login.html">Planner</a>
+      <a href="pages/login.html">About</a>
+    </nav>
+
+    <div class="nav-actions">
+      <button class="icon-btn" id="themeBtn" title="Toggle dark/light mode">☀️</button>
+      <button class="outline-btn" onclick="location.href='pages/login.html'">👤 Login</button>
+      <button class="gradient-btn" onclick="location.href='pages/register.html'">✨ Register</button>
+      <button class="menu-btn" id="menuBtn">☰</button>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <main>
+    <section class="hero">
+      <div class="hero-content">
+        <div class="eyebrow">YOUR LEARNING COMPANION <span></span></div>
+
+        <h1>Learn. Plan. Practice.<br><span>Progress.</span></h1>
+
+        <p>
+          An all-in-one platform for study materials, quizzes,
+          planning and academic growth. Designed for students,
+          by students.
+        </p>
+
+        <div class="hero-actions">
+          <button class="gradient-btn big" onclick="location.href='pages/register.html'">
+            🚀 Get Started <span>→</span>
+          </button>
+          <button class="ghost-btn big" onclick="scrollToFeatures()">
+            ▶ Explore Features
+          </button>
+        </div>
+
+        <div class="stats">
+          <div><strong>100%</strong><small>Student Focused</small></div>
+          <i></i>
+          <div><strong>24/7</strong><small>Learning Access</small></div>
+          <i></i>
+          <div><strong>1 Hub</strong><small>Everything Together</small></div>
+        </div>
+      </div>
+
+      <!-- BACKGROUND PICKER -->
+      <aside class="wallpaper-panel">
+        <div class="panel-head">
+          <h3>Choose Background</h3>
+          <button id="closeWallpaper">×</button>
+        </div>
+
+        <div class="wallpapers">
+          <button class="wallpaper active" data-bg="study" title="Study desk"></button>
+          <button class="wallpaper" data-bg="mountains" title="Mountains"></button>
+          <button class="wallpaper" data-bg="forest" title="Forest"></button>
+          <button class="wallpaper" data-bg="city" title="City"></button>
+          <button class="wallpaper" data-bg="sunset" title="Sunset"></button>
+          <button class="wallpaper" data-bg="ocean" title="Ocean"></button>
+          <button class="wallpaper" data-bg="space" title="Space"></button>
+          <button class="wallpaper" data-bg="gradient" title="Gradient"></button>
+        </div>
+
+        <label class="upload-btn">
+          ⬆ Upload Your Own Wallpaper
+          <input type="file" id="wallpaperUpload" accept="image/*">
+        </label>
+
+        <button class="reset-bg" id="resetBg">Reset Background</button>
+      </aside>
+    </section>
+
+    <!-- FEATURES -->
+    <section class="features" id="features">
+      <div class="section-heading">
+        <span>SMART LEARNING TOOLS</span>
+        <h2>Everything You Need to Study Better</h2>
+        <p>One simple place for resources, practice, planning and progress.</p>
+      </div>
+
+      <div class="feature-grid">
+        <a class="feature-card blue" href="pages/login.html">
+          <div class="feature-icon">📚</div>
+          <h3>Study Materials</h3>
+          <p>Access notes, subjects and learning resources in one place.</p>
+          <span class="card-arrow">→</span>
+        </a>
+
+        <a class="feature-card green" href="pages/login.html">
+          <div class="feature-icon">📝</div>
+          <h3>Online Quiz</h3>
+          <p>Test your knowledge with timed quizzes and instant results.</p>
+          <span class="card-arrow">→</span>
+        </a>
+
+        <a class="feature-card orange" href="pages/login.html">
+          <div class="feature-icon">📅</div>
+          <h3>Study Planner</h3>
+          <p>Organize your tasks, deadlines and daily study progress.</p>
+          <span class="card-arrow">→</span>
+        </a>
+
+        <a class="feature-card pink" href="pages/login.html">
+          <div class="feature-icon">📊</div>
+          <h3>Track Progress</h3>
+          <p>Monitor quiz results and your personal study journey.</p>
+          <span class="card-arrow">→</span>
+        </a>
+
+        <a class="feature-card cyan" href="pages/register.html">
+          <div class="feature-icon">👥</div>
+          <h3>Student Account</h3>
+          <p>Create your own account and access your learning dashboard.</p>
+          <span class="card-arrow">→</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- QUOTE -->
+    <section class="quote-card">
+      <div class="quote-mark">“</div>
+      <div>
+        <p>Success is the sum of small efforts, repeated day in and day out.</p>
+        <small>— Robert Collier</small>
+      </div>
+      <button class="outline-btn" onclick="location.href='pages/register.html'">
+        Start Your Journey →
+      </button>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-brand">
+      <a class="brand" href="index.html">
+        <span class="brand-icon">🎓</span>
+        <span>Student <strong>Study Hub</strong></span>
+      </a>
+      <p>Learn. Plan. Practice. Progress.</p>
+    </div>
+
+    <div class="footer-links">
+      <a href="index.html">Home</a>
+      <a href="pages/login.html">Materials</a>
+      <a href="pages/login.html">Quiz</a>
+      <a href="pages/login.html">Planner</a>
+      <a href="pages/login.html">About</a>
+    </div>
+
+    <div class="footer-copy">
+      <p>© 2026 Student Study Hub. All rights reserved.</p>
+      <small>Responsive • Mobile • Laptop • TV</small>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

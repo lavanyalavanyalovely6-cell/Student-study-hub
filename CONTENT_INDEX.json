@@ -1,0 +1,1842 @@
+[
+  {
+    "courseCode": "23BSC111T",
+    "subject": "Applied Chemistry",
+    "semester": "I Year • I Semester",
+    "unit": "I",
+    "title": "STRUCTURE AND BONDING MODELS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc111t-revision-guide.pdf",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "courseCode": "23BSC111T",
+    "subject": "Applied Chemistry",
+    "semester": "I Year • I Semester",
+    "unit": "II",
+    "title": "MODERN ENGINEERING MATERIALS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc111t-revision-guide.pdf",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "courseCode": "23BSC111T",
+    "subject": "Applied Chemistry",
+    "semester": "I Year • I Semester",
+    "unit": "III",
+    "title": "ELECTROCHEMISTRY AND APPLICATIONS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc111t-revision-guide.pdf",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "courseCode": "23BSC111T",
+    "subject": "Applied Chemistry",
+    "semester": "I Year • I Semester",
+    "unit": "IV",
+    "title": "POLYMER CHEMISTRY",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc111t-revision-guide.pdf",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "courseCode": "23BSC111T",
+    "subject": "Applied Chemistry",
+    "semester": "I Year • I Semester",
+    "unit": "V",
+    "title": "INSTRUMENAL METHODS AND APPLICATIONS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc111t-revision-guide.pdf",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "courseCode": "23BSC113T",
+    "subject": "Engineering Physics",
+    "semester": "I Year • I Semester",
+    "unit": "I",
+    "title": "Wave Optics Interference",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc113t-revision-guide.pdf",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "courseCode": "23BSC113T",
+    "subject": "Engineering Physics",
+    "semester": "I Year • I Semester",
+    "unit": "II",
+    "title": "Crystallography and X",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc113t-revision-guide.pdf",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "courseCode": "23BSC113T",
+    "subject": "Engineering Physics",
+    "semester": "I Year • I Semester",
+    "unit": "III",
+    "title": "Dielectric and Magnetic Materials Dielectric Materials",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc113t-revision-guide.pdf",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "courseCode": "23BSC113T",
+    "subject": "Engineering Physics",
+    "semester": "I Year • I Semester",
+    "unit": "IV",
+    "title": "Quantum Mechanics and Free electron theory Quantum Mechanics",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc113t-revision-guide.pdf",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "courseCode": "23BSC113T",
+    "subject": "Engineering Physics",
+    "semester": "I Year • I Semester",
+    "unit": "V",
+    "title": "Semiconductors Semiconductors",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc113t-revision-guide.pdf",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "courseCode": "23BSC114T",
+    "subject": "Linear Algebra and Calculus",
+    "semester": "I Year • I Semester",
+    "unit": "I",
+    "title": "MATRICES",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc114t-revision-guide.pdf",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "courseCode": "23BSC114T",
+    "subject": "Linear Algebra and Calculus",
+    "semester": "I Year • I Semester",
+    "unit": "II",
+    "title": "EIGEN VALUES, EIGEN VECTORS AND ORTHOGONAL TRANSFORMATION",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc114t-revision-guide.pdf",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "courseCode": "23BSC114T",
+    "subject": "Linear Algebra and Calculus",
+    "semester": "I Year • I Semester",
+    "unit": "III",
+    "title": "CALCULUS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc114t-revision-guide.pdf",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "courseCode": "23BSC114T",
+    "subject": "Linear Algebra and Calculus",
+    "semester": "I Year • I Semester",
+    "unit": "IV",
+    "title": "PARTIAL DIFFERENTIATION AND APPLICATIONS (MULTI VARIABLE CALCULUS)",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc114t-revision-guide.pdf",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "courseCode": "23BSC114T",
+    "subject": "Linear Algebra and Calculus",
+    "semester": "I Year • I Semester",
+    "unit": "V",
+    "title": "MULTIPLE INTEGRALS(MULTIPLE VARIABLE CALCULUS)",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc114t-revision-guide.pdf",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "courseCode": "23ESC114T",
+    "subject": "Introduction to Programming",
+    "semester": "I Year • I Semester",
+    "unit": "1",
+    "title": "Introduction to Programming and Problem Solving",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc114t-revision-guide.pdf",
+    "sourcePages": [
+      40
+    ]
+  },
+  {
+    "courseCode": "23ESC114T",
+    "subject": "Introduction to Programming",
+    "semester": "I Year • I Semester",
+    "unit": "2",
+    "title": "Control Structures",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc114t-revision-guide.pdf",
+    "sourcePages": [
+      40
+    ]
+  },
+  {
+    "courseCode": "23ESC114T",
+    "subject": "Introduction to Programming",
+    "semester": "I Year • I Semester",
+    "unit": "3",
+    "title": "Arrays and Strings",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc114t-revision-guide.pdf",
+    "sourcePages": [
+      40
+    ]
+  },
+  {
+    "courseCode": "23ESC114T",
+    "subject": "Introduction to Programming",
+    "semester": "I Year • I Semester",
+    "unit": "4",
+    "title": "Pointers & User Defined Data types",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc114t-revision-guide.pdf",
+    "sourcePages": [
+      40
+    ]
+  },
+  {
+    "courseCode": "23ESC114T",
+    "subject": "Introduction to Programming",
+    "semester": "I Year • I Semester",
+    "unit": "5",
+    "title": "Functions & File Handling",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc114t-revision-guide.pdf",
+    "sourcePages": [
+      40
+    ]
+  },
+  {
+    "courseCode": "23ESC111T",
+    "subject": "Basic Civil and Mechanical Engineering",
+    "semester": "I Year • I Semester",
+    "unit": "Part A • Unit 1",
+    "title": "Introduction to Civil Engineering",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc111t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23ESC111T",
+    "subject": "Basic Civil and Mechanical Engineering",
+    "semester": "I Year • I Semester",
+    "unit": "Part A • Unit 2",
+    "title": "Surveying and Foundation Engineering",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc111t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23ESC111T",
+    "subject": "Basic Civil and Mechanical Engineering",
+    "semester": "I Year • I Semester",
+    "unit": "Part A • Unit 3",
+    "title": "Transportation, Water Resources and Environmental Engineering",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc111t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23ESC111T",
+    "subject": "Basic Civil and Mechanical Engineering",
+    "semester": "I Year • I Semester",
+    "unit": "Part B • Unit 1",
+    "title": "Introduction to Materials and Manufacturing Engineering",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc111t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23ESC111T",
+    "subject": "Basic Civil and Mechanical Engineering",
+    "semester": "I Year • I Semester",
+    "unit": "Part B • Unit 2",
+    "title": "Introduction to Thermal Engineering",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc111t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23ESC111T",
+    "subject": "Basic Civil and Mechanical Engineering",
+    "semester": "I Year • I Semester",
+    "unit": "Part B • Unit 3",
+    "title": "Power Plants, Mechanical Transmission and Robotics",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc111t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23HSM111T",
+    "subject": "Communicative English",
+    "semester": "I Year • II Semester",
+    "unit": "I",
+    "title": "HUMAN VALUES",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23hsm111t-revision-guide.pdf",
+    "sourcePages": [
+      61
+    ]
+  },
+  {
+    "courseCode": "23HSM111T",
+    "subject": "Communicative English",
+    "semester": "I Year • II Semester",
+    "unit": "II",
+    "title": "NATURE",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23hsm111t-revision-guide.pdf",
+    "sourcePages": [
+      61
+    ]
+  },
+  {
+    "courseCode": "23HSM111T",
+    "subject": "Communicative English",
+    "semester": "I Year • II Semester",
+    "unit": "III",
+    "title": "BIOGRAPHY",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23hsm111t-revision-guide.pdf",
+    "sourcePages": [
+      61
+    ]
+  },
+  {
+    "courseCode": "23HSM111T",
+    "subject": "Communicative English",
+    "semester": "I Year • II Semester",
+    "unit": "IV",
+    "title": "INSPIRATION",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23hsm111t-revision-guide.pdf",
+    "sourcePages": [
+      62
+    ]
+  },
+  {
+    "courseCode": "23HSM111T",
+    "subject": "Communicative English",
+    "semester": "I Year • II Semester",
+    "unit": "V",
+    "title": "MOTIVATION",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23hsm111t-revision-guide.pdf",
+    "sourcePages": [
+      62
+    ]
+  },
+  {
+    "courseCode": "23BSC121T",
+    "subject": "Differential Equations and Vector Calculus",
+    "semester": "I Year • II Semester",
+    "unit": "I",
+    "title": "DIFFERENTIAL EQUATIONS OF FIRST ORDER AND FIRST DEGREE",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc121t-revision-guide.pdf",
+    "sourcePages": [
+      59
+    ]
+  },
+  {
+    "courseCode": "23BSC121T",
+    "subject": "Differential Equations and Vector Calculus",
+    "semester": "I Year • II Semester",
+    "unit": "II",
+    "title": "LINEAR DIFFERENTIAL EQUATIONS OF HIGHER ORDER (CONSTANT COEFFICIENTS)",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc121t-revision-guide.pdf",
+    "sourcePages": [
+      59
+    ]
+  },
+  {
+    "courseCode": "23BSC121T",
+    "subject": "Differential Equations and Vector Calculus",
+    "semester": "I Year • II Semester",
+    "unit": "III",
+    "title": "PARTIAL DIFFERENTIAL EQUATIONS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc121t-revision-guide.pdf",
+    "sourcePages": [
+      59
+    ]
+  },
+  {
+    "courseCode": "23BSC121T",
+    "subject": "Differential Equations and Vector Calculus",
+    "semester": "I Year • II Semester",
+    "unit": "IV",
+    "title": "VECTOR DIFFERENTIATION",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc121t-revision-guide.pdf",
+    "sourcePages": [
+      59
+    ]
+  },
+  {
+    "courseCode": "23BSC121T",
+    "subject": "Differential Equations and Vector Calculus",
+    "semester": "I Year • II Semester",
+    "unit": "V",
+    "title": "VECTOR INTEGRATION",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc121t-revision-guide.pdf",
+    "sourcePages": [
+      59
+    ]
+  },
+  {
+    "courseCode": "23ESC112T",
+    "subject": "Basic Electrical and Electronics Engineering",
+    "semester": "I Year • II Semester",
+    "unit": "Part A • Unit 1",
+    "title": "DC and AC Circuits",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc112t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23ESC112T",
+    "subject": "Basic Electrical and Electronics Engineering",
+    "semester": "I Year • II Semester",
+    "unit": "Part A • Unit 2",
+    "title": "Machines and Measuring Instruments",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc112t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23ESC112T",
+    "subject": "Basic Electrical and Electronics Engineering",
+    "semester": "I Year • II Semester",
+    "unit": "Part A • Unit 3",
+    "title": "Energy Resources, Electricity Bill and Safety Measures",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc112t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23ESC112T",
+    "subject": "Basic Electrical and Electronics Engineering",
+    "semester": "I Year • II Semester",
+    "unit": "Part B • Unit 1",
+    "title": "Semiconductor Devices",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc112t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23ESC112T",
+    "subject": "Basic Electrical and Electronics Engineering",
+    "semester": "I Year • II Semester",
+    "unit": "Part B • Unit 2",
+    "title": "Basic Electronic Circuits and Instrumentation",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc112t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23ESC112T",
+    "subject": "Basic Electrical and Electronics Engineering",
+    "semester": "I Year • II Semester",
+    "unit": "Part B • Unit 3",
+    "title": "Digital Electronics",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc112t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23CSE121T",
+    "subject": "Data Structures",
+    "semester": "I Year • II Semester",
+    "unit": "1",
+    "title": "Introduction to Linear Data Structures",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse121t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23CSE121T",
+    "subject": "Data Structures",
+    "semester": "I Year • II Semester",
+    "unit": "2",
+    "title": "Linked Lists",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse121t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23CSE121T",
+    "subject": "Data Structures",
+    "semester": "I Year • II Semester",
+    "unit": "3",
+    "title": "Stacks",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse121t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23CSE121T",
+    "subject": "Data Structures",
+    "semester": "I Year • II Semester",
+    "unit": "4",
+    "title": "Queues and Deques",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse121t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23CSE121T",
+    "subject": "Data Structures",
+    "semester": "I Year • II Semester",
+    "unit": "5",
+    "title": "Trees and Hashing",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse121t-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23ESC113T",
+    "subject": "Engineering Graphics",
+    "semester": "I Year • II Semester",
+    "unit": "1",
+    "title": "ENGINEERING CURVES AND SCALES",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc113t-revision-guide.pdf",
+    "sourcePages": [
+      68
+    ]
+  },
+  {
+    "courseCode": "23ESC113T",
+    "subject": "Engineering Graphics",
+    "semester": "I Year • II Semester",
+    "unit": "2",
+    "title": "PROJECTION OF POINTS, LINES AND PLANE SURFACES",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc113t-revision-guide.pdf",
+    "sourcePages": [
+      68
+    ]
+  },
+  {
+    "courseCode": "23ESC113T",
+    "subject": "Engineering Graphics",
+    "semester": "I Year • II Semester",
+    "unit": "3",
+    "title": "PROJECTION OF SOLIDS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc113t-revision-guide.pdf",
+    "sourcePages": [
+      68
+    ]
+  },
+  {
+    "courseCode": "23ESC113T",
+    "subject": "Engineering Graphics",
+    "semester": "I Year • II Semester",
+    "unit": "4",
+    "title": "SECTION OF SOLIDS AND DEVELOPMENT OF SURFACES",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc113t-revision-guide.pdf",
+    "sourcePages": [
+      68
+    ]
+  },
+  {
+    "courseCode": "23ESC113T",
+    "subject": "Engineering Graphics",
+    "semester": "I Year • II Semester",
+    "unit": "5",
+    "title": "ISOMETRIC PROJECTIONS AND ORTHOGRAPHIC PROJECTIONS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc113t-revision-guide.pdf",
+    "sourcePages": [
+      69
+    ]
+  },
+  {
+    "courseCode": "23BSC232T",
+    "subject": "Discrete Mathematics and Graph Theory",
+    "semester": "II Year • III Semester",
+    "unit": "I",
+    "title": "MATHEMATICAL LOGIC",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc232t-revision-guide.pdf",
+    "sourcePages": [
+      88
+    ]
+  },
+  {
+    "courseCode": "23BSC232T",
+    "subject": "Discrete Mathematics and Graph Theory",
+    "semester": "II Year • III Semester",
+    "unit": "2",
+    "title": "SET THEORY",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc232t-revision-guide.pdf",
+    "sourcePages": [
+      88
+    ]
+  },
+  {
+    "courseCode": "23BSC232T",
+    "subject": "Discrete Mathematics and Graph Theory",
+    "semester": "II Year • III Semester",
+    "unit": "3",
+    "title": "ELEMENTARY COMBINATORICS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc232t-revision-guide.pdf",
+    "sourcePages": [
+      88
+    ]
+  },
+  {
+    "courseCode": "23BSC232T",
+    "subject": "Discrete Mathematics and Graph Theory",
+    "semester": "II Year • III Semester",
+    "unit": "4",
+    "title": "RECURRENCE RELATIONS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc232t-revision-guide.pdf",
+    "sourcePages": [
+      88
+    ]
+  },
+  {
+    "courseCode": "23BSC232T",
+    "subject": "Discrete Mathematics and Graph Theory",
+    "semester": "II Year • III Semester",
+    "unit": "5",
+    "title": "Graphs",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc232t-revision-guide.pdf",
+    "sourcePages": [
+      88
+    ]
+  },
+  {
+    "courseCode": "23HSM234T",
+    "subject": "Universal Human Values – Understanding Harmony and Ethical Human Conduct",
+    "semester": "II Year • III Semester",
+    "unit": "I",
+    "title": "INTRODUCTION TO VALUE EDUCATION",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23hsm234t-revision-guide.pdf",
+    "sourcePages": [
+      90
+    ]
+  },
+  {
+    "courseCode": "23HSM234T",
+    "subject": "Universal Human Values – Understanding Harmony and Ethical Human Conduct",
+    "semester": "II Year • III Semester",
+    "unit": "2",
+    "title": "HARMONY IN THE HUMAN BEING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23hsm234t-revision-guide.pdf",
+    "sourcePages": [
+      90
+    ]
+  },
+  {
+    "courseCode": "23HSM234T",
+    "subject": "Universal Human Values – Understanding Harmony and Ethical Human Conduct",
+    "semester": "II Year • III Semester",
+    "unit": "3",
+    "title": "HARMONY IN THE FAMILY AND SOCIETY",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23hsm234t-revision-guide.pdf",
+    "sourcePages": [
+      90
+    ]
+  },
+  {
+    "courseCode": "23HSM234T",
+    "subject": "Universal Human Values – Understanding Harmony and Ethical Human Conduct",
+    "semester": "II Year • III Semester",
+    "unit": "4",
+    "title": "HARMONY IN THE NATURE/EXISTENCE",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23hsm234t-revision-guide.pdf",
+    "sourcePages": [
+      90
+    ]
+  },
+  {
+    "courseCode": "23HSM234T",
+    "subject": "Universal Human Values – Understanding Harmony and Ethical Human Conduct",
+    "semester": "II Year • III Semester",
+    "unit": "5",
+    "title": "IMPLICATIONS OF THE HOLISTIC UNDERSTANDING – A LOOK AT PROFESSIONAL ETHICS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23hsm234t-revision-guide.pdf",
+    "sourcePages": [
+      90
+    ]
+  },
+  {
+    "courseCode": "23CAI231T",
+    "subject": "Artificial Intelligence",
+    "semester": "II Year • III Semester",
+    "unit": "I",
+    "title": "INTRODUCTION",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai231t-revision-guide.pdf",
+    "sourcePages": [
+      98
+    ]
+  },
+  {
+    "courseCode": "23CAI231T",
+    "subject": "Artificial Intelligence",
+    "semester": "II Year • III Semester",
+    "unit": "2",
+    "title": "SEARCHING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai231t-revision-guide.pdf",
+    "sourcePages": [
+      98
+    ]
+  },
+  {
+    "courseCode": "23CAI231T",
+    "subject": "Artificial Intelligence",
+    "semester": "II Year • III Semester",
+    "unit": "3",
+    "title": "REPRESENTATION OF KNOWLEDGE",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai231t-revision-guide.pdf",
+    "sourcePages": [
+      98
+    ]
+  },
+  {
+    "courseCode": "23CAI231T",
+    "subject": "Artificial Intelligence",
+    "semester": "II Year • III Semester",
+    "unit": "4",
+    "title": "LOGIC CONCEPTS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai231t-revision-guide.pdf",
+    "sourcePages": [
+      98
+    ]
+  },
+  {
+    "courseCode": "23CAI231T",
+    "subject": "Artificial Intelligence",
+    "semester": "II Year • III Semester",
+    "unit": "5",
+    "title": "EXPERT SYSTEMS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai231t-revision-guide.pdf",
+    "sourcePages": [
+      98
+    ]
+  },
+  {
+    "courseCode": "23CSE231T",
+    "subject": "Advanced Data Structures and Algorithm Analysis",
+    "semester": "II Year • III Semester",
+    "unit": "I",
+    "title": "INTRODUCTION",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse231t-revision-guide.pdf",
+    "sourcePages": [
+      93
+    ]
+  },
+  {
+    "courseCode": "23CSE231T",
+    "subject": "Advanced Data Structures and Algorithm Analysis",
+    "semester": "II Year • III Semester",
+    "unit": "2",
+    "title": "HEAP TREES & DIVIDE AND CONQUER",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse231t-revision-guide.pdf",
+    "sourcePages": [
+      93
+    ]
+  },
+  {
+    "courseCode": "23CSE231T",
+    "subject": "Advanced Data Structures and Algorithm Analysis",
+    "semester": "II Year • III Semester",
+    "unit": "3",
+    "title": "GREEDY METHOD & DYNAMIC PROGRAMMING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse231t-revision-guide.pdf",
+    "sourcePages": [
+      93
+    ]
+  },
+  {
+    "courseCode": "23CSE231T",
+    "subject": "Advanced Data Structures and Algorithm Analysis",
+    "semester": "II Year • III Semester",
+    "unit": "4",
+    "title": "BACKTRACKING & BRANCH AND BOUND",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse231t-revision-guide.pdf",
+    "sourcePages": [
+      93
+    ]
+  },
+  {
+    "courseCode": "23CSE231T",
+    "subject": "Advanced Data Structures and Algorithm Analysis",
+    "semester": "II Year • III Semester",
+    "unit": "5",
+    "title": "NP HARD, NP HARD GRAPH PROBLEMS & NP HARD SCHEDULING PROBLEMS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse231t-revision-guide.pdf",
+    "sourcePages": [
+      93
+    ]
+  },
+  {
+    "courseCode": "23CSE232T",
+    "subject": "Object Oriented Programming Through Java",
+    "semester": "II Year • III Semester",
+    "unit": "I",
+    "title": "INTRODUCTION TO OBJECT ORIENTED PROGRAMMING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse232t-revision-guide.pdf",
+    "sourcePages": [
+      95
+    ]
+  },
+  {
+    "courseCode": "23CSE232T",
+    "subject": "Object Oriented Programming Through Java",
+    "semester": "II Year • III Semester",
+    "unit": "2",
+    "title": "CLASSES, OBJECTS AND METHODS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse232t-revision-guide.pdf",
+    "sourcePages": [
+      95
+    ]
+  },
+  {
+    "courseCode": "23CSE232T",
+    "subject": "Object Oriented Programming Through Java",
+    "semester": "II Year • III Semester",
+    "unit": "3",
+    "title": "ARRAYS, INHERITANCE AND INTERFACES",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse232t-revision-guide.pdf",
+    "sourcePages": [
+      95
+    ]
+  },
+  {
+    "courseCode": "23CSE232T",
+    "subject": "Object Oriented Programming Through Java",
+    "semester": "II Year • III Semester",
+    "unit": "4",
+    "title": "PACKAGES, JAVA LIBRARY, EXCEPTION HANDLING, JAVA I/O AND FILE",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse232t-revision-guide.pdf",
+    "sourcePages": [
+      96
+    ]
+  },
+  {
+    "courseCode": "23CSE232T",
+    "subject": "Object Oriented Programming Through Java",
+    "semester": "II Year • III Semester",
+    "unit": "5",
+    "title": "STRING HANDLING, MULTITHREADED PROGRAMMING, JAVA DATABASE CONNECTIVITY, AND JAVA FX GUI",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse232t-revision-guide.pdf",
+    "sourcePages": [
+      96
+    ]
+  },
+  {
+    "courseCode": "23BSC242T",
+    "subject": "Optimization Techniques",
+    "semester": "II Year • IV Semester",
+    "unit": "I",
+    "title": "Introduction",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc242t-revision-guide.pdf",
+    "sourcePages": [
+      112
+    ]
+  },
+  {
+    "courseCode": "23BSC242T",
+    "subject": "Optimization Techniques",
+    "semester": "II Year • IV Semester",
+    "unit": "II",
+    "title": "Transportation Problem",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc242t-revision-guide.pdf",
+    "sourcePages": [
+      112
+    ]
+  },
+  {
+    "courseCode": "23BSC242T",
+    "subject": "Optimization Techniques",
+    "semester": "II Year • IV Semester",
+    "unit": "III",
+    "title": "Sequencing",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc242t-revision-guide.pdf",
+    "sourcePages": [
+      112
+    ]
+  },
+  {
+    "courseCode": "23BSC242T",
+    "subject": "Optimization Techniques",
+    "semester": "II Year • IV Semester",
+    "unit": "IV",
+    "title": "Game Theory",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc242t-revision-guide.pdf",
+    "sourcePages": [
+      112
+    ]
+  },
+  {
+    "courseCode": "23BSC242T",
+    "subject": "Optimization Techniques",
+    "semester": "II Year • IV Semester",
+    "unit": "V",
+    "title": "Project Management",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc242t-revision-guide.pdf",
+    "sourcePages": [
+      112
+    ]
+  },
+  {
+    "courseCode": "23BSC243T",
+    "subject": "Probability and Statistics",
+    "semester": "II Year • IV Semester",
+    "unit": "I",
+    "title": "DESCRIPTIVE STATISTICS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc243t-revision-guide.pdf",
+    "sourcePages": [
+      114
+    ]
+  },
+  {
+    "courseCode": "23BSC243T",
+    "subject": "Probability and Statistics",
+    "semester": "II Year • IV Semester",
+    "unit": "2",
+    "title": "PROBABILITY",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc243t-revision-guide.pdf",
+    "sourcePages": [
+      114
+    ]
+  },
+  {
+    "courseCode": "23BSC243T",
+    "subject": "Probability and Statistics",
+    "semester": "II Year • IV Semester",
+    "unit": "3",
+    "title": "PROBABILITY DISTRIBUTIONS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc243t-revision-guide.pdf",
+    "sourcePages": [
+      114
+    ]
+  },
+  {
+    "courseCode": "23BSC243T",
+    "subject": "Probability and Statistics",
+    "semester": "II Year • IV Semester",
+    "unit": "4",
+    "title": "ESTIMATION AND TESTING OF HYPOTHESIS, LARGE SAMPLE TESTS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc243t-revision-guide.pdf",
+    "sourcePages": [
+      114
+    ]
+  },
+  {
+    "courseCode": "23BSC243T",
+    "subject": "Probability and Statistics",
+    "semester": "II Year • IV Semester",
+    "unit": "5",
+    "title": "SMALL SAMPLE TESTS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23bsc243t-revision-guide.pdf",
+    "sourcePages": [
+      114
+    ]
+  },
+  {
+    "courseCode": "23ESC232T",
+    "subject": "Digital Logic and Computer Organization",
+    "semester": "II Year • IV Semester",
+    "unit": "I",
+    "title": "Data Representation",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc232t-revision-guide.pdf",
+    "sourcePages": [
+      116
+    ]
+  },
+  {
+    "courseCode": "23ESC232T",
+    "subject": "Digital Logic and Computer Organization",
+    "semester": "II Year • IV Semester",
+    "unit": "2",
+    "title": "Digital Logic Circuits-II",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc232t-revision-guide.pdf",
+    "sourcePages": [
+      116
+    ]
+  },
+  {
+    "courseCode": "23ESC232T",
+    "subject": "Digital Logic and Computer Organization",
+    "semester": "II Year • IV Semester",
+    "unit": "3",
+    "title": "Computer Arithmetic",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc232t-revision-guide.pdf",
+    "sourcePages": [
+      116
+    ]
+  },
+  {
+    "courseCode": "23ESC232T",
+    "subject": "Digital Logic and Computer Organization",
+    "semester": "II Year • IV Semester",
+    "unit": "4",
+    "title": "The Memory Organization",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc232t-revision-guide.pdf",
+    "sourcePages": [
+      116
+    ]
+  },
+  {
+    "courseCode": "23ESC232T",
+    "subject": "Digital Logic and Computer Organization",
+    "semester": "II Year • IV Semester",
+    "unit": "5",
+    "title": "",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc232t-revision-guide.pdf",
+    "sourcePages": [
+      116
+    ]
+  },
+  {
+    "courseCode": "23CSE241T",
+    "subject": "Database Management Systems",
+    "semester": "II Year • IV Semester",
+    "unit": "1",
+    "title": "INTRODUCTION TO DATABASE MANAGEMENT SYSTEM AND ENTITY RELATIONSHIP MODEL",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse241t-revision-guide.pdf",
+    "sourcePages": [
+      118
+    ]
+  },
+  {
+    "courseCode": "23CSE241T",
+    "subject": "Database Management Systems",
+    "semester": "II Year • IV Semester",
+    "unit": "2",
+    "title": "RELATIONAL MODEL",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse241t-revision-guide.pdf",
+    "sourcePages": [
+      118
+    ]
+  },
+  {
+    "courseCode": "23CSE241T",
+    "subject": "Database Management Systems",
+    "semester": "II Year • IV Semester",
+    "unit": "3",
+    "title": "INTRODUCTION TO STRUCTURED QUERY LANGUAGE",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse241t-revision-guide.pdf",
+    "sourcePages": [
+      118
+    ]
+  },
+  {
+    "courseCode": "23CSE241T",
+    "subject": "Database Management Systems",
+    "semester": "II Year • IV Semester",
+    "unit": "4",
+    "title": "NORMALIZATION",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse241t-revision-guide.pdf",
+    "sourcePages": [
+      118
+    ]
+  },
+  {
+    "courseCode": "23CSE241T",
+    "subject": "Database Management Systems",
+    "semester": "II Year • IV Semester",
+    "unit": "5",
+    "title": "TRANSACTION CONCEPT AND INDEXING CONCEPTS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse241t-revision-guide.pdf",
+    "sourcePages": [
+      118
+    ]
+  },
+  {
+    "courseCode": "23CSM241T",
+    "subject": "Machine Learning",
+    "semester": "II Year • IV Semester",
+    "unit": "I",
+    "title": "INTRODUCTION TO MACHINE LEARNING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm241t-revision-guide.pdf",
+    "sourcePages": [
+      120
+    ]
+  },
+  {
+    "courseCode": "23CSM241T",
+    "subject": "Machine Learning",
+    "semester": "II Year • IV Semester",
+    "unit": "2",
+    "title": "NEAREST NEIGHBOUR-BASED MODELS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm241t-revision-guide.pdf",
+    "sourcePages": [
+      120
+    ]
+  },
+  {
+    "courseCode": "23CSM241T",
+    "subject": "Machine Learning",
+    "semester": "II Year • IV Semester",
+    "unit": "3",
+    "title": "MODELS BASED ON DECISION TREES",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm241t-revision-guide.pdf",
+    "sourcePages": [
+      120
+    ]
+  },
+  {
+    "courseCode": "23CSM241T",
+    "subject": "Machine Learning",
+    "semester": "II Year • IV Semester",
+    "unit": "4",
+    "title": "LINEAR DISCRIMINANTS FOR MACHINE LEARNING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm241t-revision-guide.pdf",
+    "sourcePages": [
+      120
+    ]
+  },
+  {
+    "courseCode": "23CSM241T",
+    "subject": "Machine Learning",
+    "semester": "II Year • IV Semester",
+    "unit": "5",
+    "title": "CLUSTERING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm241t-revision-guide.pdf",
+    "sourcePages": [
+      120
+    ]
+  },
+  {
+    "courseCode": "23ESC241I",
+    "subject": "Design Thinking and Innovation",
+    "semester": "II Year • IV Semester",
+    "unit": "I",
+    "title": "INTRODUCTION TO DESIGN THINKING Introduction to elements and principles of Design, basi…",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc241i-revision-guide.pdf",
+    "sourcePages": [
+      131
+    ]
+  },
+  {
+    "courseCode": "23ESC241I",
+    "subject": "Design Thinking and Innovation",
+    "semester": "II Year • IV Semester",
+    "unit": "II",
+    "title": "DESIGN THINKING PROCESS Design thinking process (empathize, analyze, idea & prototype),…",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc241i-revision-guide.pdf",
+    "sourcePages": [
+      131
+    ]
+  },
+  {
+    "courseCode": "23ESC241I",
+    "subject": "Design Thinking and Innovation",
+    "semester": "II Year • IV Semester",
+    "unit": "III",
+    "title": "INNOVATION Art of innovation, Difference between innovation and creativity, role of cre…",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc241i-revision-guide.pdf",
+    "sourcePages": [
+      131
+    ]
+  },
+  {
+    "courseCode": "23ESC241I",
+    "subject": "Design Thinking and Innovation",
+    "semester": "II Year • IV Semester",
+    "unit": "IV",
+    "title": "PRODUCT DESIGN Problem formation, introduction to product design, Product strategies, P…",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc241i-revision-guide.pdf",
+    "sourcePages": [
+      131
+    ]
+  },
+  {
+    "courseCode": "23ESC241I",
+    "subject": "Design Thinking and Innovation",
+    "semester": "II Year • IV Semester",
+    "unit": "V",
+    "title": "DESIGN THINKING IN BUSINESS PROCESSES Design Thinking applied in Business & Strategic I…",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc241i-revision-guide.pdf",
+    "sourcePages": [
+      131
+    ]
+  },
+  {
+    "courseCode": "23CAI351T",
+    "subject": "Cloud Computing for AI",
+    "semester": "III Year • V Semester",
+    "unit": "I",
+    "title": "INTRODUCTION TO CLOUD COMPUTING AND AI INTEGRATION",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai351t-revision-guide.pdf",
+    "sourcePages": [
+      133
+    ]
+  },
+  {
+    "courseCode": "23CAI351T",
+    "subject": "Cloud Computing for AI",
+    "semester": "III Year • V Semester",
+    "unit": "II",
+    "title": "STORAGE, COMPUTING, AND DATA PROCESSING IN THE CLOUD",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai351t-revision-guide.pdf",
+    "sourcePages": [
+      133
+    ]
+  },
+  {
+    "courseCode": "23CAI351T",
+    "subject": "Cloud Computing for AI",
+    "semester": "III Year • V Semester",
+    "unit": "III",
+    "title": "CLOUD-BASED MACHINE LEARNING AND DEEP LEARNING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai351t-revision-guide.pdf",
+    "sourcePages": [
+      133
+    ]
+  },
+  {
+    "courseCode": "23CAI351T",
+    "subject": "Cloud Computing for AI",
+    "semester": "III Year • V Semester",
+    "unit": "4",
+    "title": "ADVANCED CLOUD CONCEPTS FOR AI APPLICATIONS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai351t-revision-guide.pdf",
+    "sourcePages": [
+      133
+    ]
+  },
+  {
+    "courseCode": "23CAI351T",
+    "subject": "Cloud Computing for AI",
+    "semester": "III Year • V Semester",
+    "unit": "5",
+    "title": "SECURITY, ETHICS, AND CASE STUDIES IN CLOUD AI",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai351t-revision-guide.pdf",
+    "sourcePages": [
+      133
+    ]
+  },
+  {
+    "courseCode": "23CAI352T",
+    "subject": "Computer Vision & Image Processing",
+    "semester": "III Year • V Semester",
+    "unit": "1",
+    "title": "Introduction to Computer Vision and Image Processing",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai352t-revision-guide.pdf",
+    "sourcePages": [
+      135
+    ]
+  },
+  {
+    "courseCode": "23CAI352T",
+    "subject": "Computer Vision & Image Processing",
+    "semester": "III Year • V Semester",
+    "unit": "2",
+    "title": "Image Analysis Techniques",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai352t-revision-guide.pdf",
+    "sourcePages": [
+      135
+    ]
+  },
+  {
+    "courseCode": "23CAI352T",
+    "subject": "Computer Vision & Image Processing",
+    "semester": "III Year • V Semester",
+    "unit": "3",
+    "title": "3D Vision and Motion Analysis",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai352t-revision-guide.pdf",
+    "sourcePages": [
+      135
+    ]
+  },
+  {
+    "courseCode": "23CAI352T",
+    "subject": "Computer Vision & Image Processing",
+    "semester": "III Year • V Semester",
+    "unit": "4",
+    "title": "Object Recognition and Machine Learning in Vision",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai352t-revision-guide.pdf",
+    "sourcePages": [
+      135
+    ]
+  },
+  {
+    "courseCode": "23CAI352T",
+    "subject": "Computer Vision & Image Processing",
+    "semester": "III Year • V Semester",
+    "unit": "5",
+    "title": "Applications and Advanced Topics",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai352t-revision-guide.pdf",
+    "sourcePages": [
+      136
+    ]
+  },
+  {
+    "courseCode": "23CSM351T",
+    "subject": "Big Data Analytics & AI Applications",
+    "semester": "III Year • V Semester",
+    "unit": "I",
+    "title": "INTRODUCTION TO BIG DATA AND ANALYTICS ECOSYSTEM",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm351t-revision-guide.pdf",
+    "sourcePages": [
+      137
+    ]
+  },
+  {
+    "courseCode": "23CSM351T",
+    "subject": "Big Data Analytics & AI Applications",
+    "semester": "III Year • V Semester",
+    "unit": "II",
+    "title": "BIG DATA TOOLS AND FRAMEWORKS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm351t-revision-guide.pdf",
+    "sourcePages": [
+      137
+    ]
+  },
+  {
+    "courseCode": "23CSM351T",
+    "subject": "Big Data Analytics & AI Applications",
+    "semester": "III Year • V Semester",
+    "unit": "III",
+    "title": "MACHINE LEARNING ON BIG DATA",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm351t-revision-guide.pdf",
+    "sourcePages": [
+      137
+    ]
+  },
+  {
+    "courseCode": "23CSM351T",
+    "subject": "Big Data Analytics & AI Applications",
+    "semester": "III Year • V Semester",
+    "unit": "IV",
+    "title": "AI APPLICATIONS ON BIG DATA",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm351t-revision-guide.pdf",
+    "sourcePages": [
+      137
+    ]
+  },
+  {
+    "courseCode": "23CSM351T",
+    "subject": "Big Data Analytics & AI Applications",
+    "semester": "III Year • V Semester",
+    "unit": "V",
+    "title": "ADVANCED TOPICS AND CASE STUDIES",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm351t-revision-guide.pdf",
+    "sourcePages": [
+      137
+    ]
+  },
+  {
+    "courseCode": "23ESC351T",
+    "subject": "Introduction to Quantum Technologies and Applications",
+    "semester": "III Year • V Semester",
+    "unit": "1",
+    "title": "INTRODUCTION TO QUANTUM THEORY AND TECHNOLOGIES",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc351t-revision-guide.pdf",
+    "sourcePages": [
+      139
+    ]
+  },
+  {
+    "courseCode": "23ESC351T",
+    "subject": "Introduction to Quantum Technologies and Applications",
+    "semester": "III Year • V Semester",
+    "unit": "2",
+    "title": "THEORETICAL STRUCTURE OF QUANTUM INFORMATION SYSTEMS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc351t-revision-guide.pdf",
+    "sourcePages": [
+      139
+    ]
+  },
+  {
+    "courseCode": "23ESC351T",
+    "subject": "Introduction to Quantum Technologies and Applications",
+    "semester": "III Year • V Semester",
+    "unit": "3",
+    "title": "BUILDING A QUANTUM COMPUTER – THEORETICAL CHALLENGES AND REQUIREMENTS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc351t-revision-guide.pdf",
+    "sourcePages": [
+      139
+    ]
+  },
+  {
+    "courseCode": "23ESC351T",
+    "subject": "Introduction to Quantum Technologies and Applications",
+    "semester": "III Year • V Semester",
+    "unit": "4",
+    "title": "QUANTUM COMMUNICATION AND COMPUTING – THEORETICAL PERSPECTIVE",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc351t-revision-guide.pdf",
+    "sourcePages": [
+      139
+    ]
+  },
+  {
+    "courseCode": "23ESC351T",
+    "subject": "Introduction to Quantum Technologies and Applications",
+    "semester": "III Year • V Semester",
+    "unit": "5",
+    "title": "APPLICATIONS, USE CASES, AND THE QUANTUM FUTURE",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23esc351t-revision-guide.pdf",
+    "sourcePages": [
+      140
+    ]
+  },
+  {
+    "courseCode": "23MAC351U",
+    "subject": "Technical Paper Writing & IPR",
+    "semester": "III Year • V Semester",
+    "unit": "I",
+    "title": "Principles of Technical Writing",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23mac351u-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23MAC351U",
+    "subject": "Technical Paper Writing & IPR",
+    "semester": "III Year • V Semester",
+    "unit": "II",
+    "title": "Technical Research Paper Writing",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23mac351u-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23MAC351U",
+    "subject": "Technical Paper Writing & IPR",
+    "semester": "III Year • V Semester",
+    "unit": "III",
+    "title": "Research Publication Mechanism",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23mac351u-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23MAC351U",
+    "subject": "Technical Paper Writing & IPR",
+    "semester": "III Year • V Semester",
+    "unit": "IV",
+    "title": "Intellectual Property and Trademarks",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23mac351u-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23MAC351U",
+    "subject": "Technical Paper Writing & IPR",
+    "semester": "III Year • V Semester",
+    "unit": "V",
+    "title": "Copyright and Patent Law",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23mac351u-revision-guide.pdf",
+    "sourcePages": []
+  },
+  {
+    "courseCode": "23CSM361T",
+    "subject": "Deep Learning",
+    "semester": "III Year • VI Semester",
+    "unit": "I",
+    "title": "LINEAR ALGEBRA, PROBABILITY AND NUMERICAL COMPUTATION",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm361t-revision-guide.pdf",
+    "sourcePages": [
+      178
+    ]
+  },
+  {
+    "courseCode": "23CSM361T",
+    "subject": "Deep Learning",
+    "semester": "III Year • VI Semester",
+    "unit": "II",
+    "title": "MACHINE LEARNING AND DEEP FEED FORWARD NETWORKS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm361t-revision-guide.pdf",
+    "sourcePages": [
+      178
+    ]
+  },
+  {
+    "courseCode": "23CSM361T",
+    "subject": "Deep Learning",
+    "semester": "III Year • VI Semester",
+    "unit": "III",
+    "title": "REGULARIZATION AND OPTIMIZATION OF DL MODELS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm361t-revision-guide.pdf",
+    "sourcePages": [
+      178
+    ]
+  },
+  {
+    "courseCode": "23CSM361T",
+    "subject": "Deep Learning",
+    "semester": "III Year • VI Semester",
+    "unit": "IV",
+    "title": "CONVOLUTIONAL NETWORKS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm361t-revision-guide.pdf",
+    "sourcePages": [
+      178
+    ]
+  },
+  {
+    "courseCode": "23CSM361T",
+    "subject": "Deep Learning",
+    "semester": "III Year • VI Semester",
+    "unit": "V",
+    "title": "SEQUENCE MODELING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23csm361t-revision-guide.pdf",
+    "sourcePages": [
+      178
+    ]
+  },
+  {
+    "courseCode": "23CAI353T",
+    "subject": "Natural Language Processing",
+    "semester": "III Year • VI Semester",
+    "unit": "1",
+    "title": "INTRODUCTION TO NLP",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai353t-revision-guide.pdf",
+    "sourcePages": [
+      180
+    ]
+  },
+  {
+    "courseCode": "23CAI353T",
+    "subject": "Natural Language Processing",
+    "semester": "III Year • VI Semester",
+    "unit": "2",
+    "title": "WORD-LEVEL AND SYNTACTIC ANALYSIS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai353t-revision-guide.pdf",
+    "sourcePages": [
+      180
+    ]
+  },
+  {
+    "courseCode": "23CAI353T",
+    "subject": "Natural Language Processing",
+    "semester": "III Year • VI Semester",
+    "unit": "3",
+    "title": "TEXT CLASSIFICATION AND INFORMATION RETRIEVAL",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai353t-revision-guide.pdf",
+    "sourcePages": [
+      180
+    ]
+  },
+  {
+    "courseCode": "23CAI353T",
+    "subject": "Natural Language Processing",
+    "semester": "III Year • VI Semester",
+    "unit": "4",
+    "title": "MACHINE TRANSLATION AND SEMANTIC PROCESSING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai353t-revision-guide.pdf",
+    "sourcePages": [
+      180
+    ]
+  },
+  {
+    "courseCode": "23CAI353T",
+    "subject": "Natural Language Processing",
+    "semester": "III Year • VI Semester",
+    "unit": "5",
+    "title": "SPEECH PROCESSING AND ADVANCED NLP MODELS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai353t-revision-guide.pdf",
+    "sourcePages": [
+      180
+    ]
+  },
+  {
+    "courseCode": "23CSE353T",
+    "subject": "Operating Systems & Systems Programming",
+    "semester": "III Year • VI Semester",
+    "unit": "1",
+    "title": "FUNDAMENTALS OF OPERATING SYSTEMS AND PROCESS MANAGEMENT",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse353t-revision-guide.pdf",
+    "sourcePages": [
+      182
+    ]
+  },
+  {
+    "courseCode": "23CSE353T",
+    "subject": "Operating Systems & Systems Programming",
+    "semester": "III Year • VI Semester",
+    "unit": "2",
+    "title": "MEMORY, FILE, AND STORAGE MANAGEMENT",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse353t-revision-guide.pdf",
+    "sourcePages": [
+      182
+    ]
+  },
+  {
+    "courseCode": "23CSE353T",
+    "subject": "Operating Systems & Systems Programming",
+    "semester": "III Year • VI Semester",
+    "unit": "3",
+    "title": "I/O SYSTEMS, SECURITY, AND UNIX/LINUX OVERVIEW",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse353t-revision-guide.pdf",
+    "sourcePages": [
+      182
+    ]
+  },
+  {
+    "courseCode": "23CSE353T",
+    "subject": "Operating Systems & Systems Programming",
+    "semester": "III Year • VI Semester",
+    "unit": "4",
+    "title": "SYSTEM SOFTWARE AND LANGUAGE PROCESSING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse353t-revision-guide.pdf",
+    "sourcePages": [
+      182
+    ]
+  },
+  {
+    "courseCode": "23CSE353T",
+    "subject": "Operating Systems & Systems Programming",
+    "semester": "III Year • VI Semester",
+    "unit": "5",
+    "title": "SYSTEM PROGRAMMING",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cse353t-revision-guide.pdf",
+    "sourcePages": [
+      183
+    ]
+  },
+  {
+    "courseCode": "23CAI471T",
+    "subject": "Generative AI and Prompt Engineering",
+    "semester": "IV Year • VII Semester",
+    "unit": "1",
+    "title": "Introduction to Generative AI",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai471t-revision-guide.pdf",
+    "sourcePages": [
+      235
+    ]
+  },
+  {
+    "courseCode": "23CAI471T",
+    "subject": "Generative AI and Prompt Engineering",
+    "semester": "IV Year • VII Semester",
+    "unit": "2",
+    "title": "Prompt Engineering Fundamentals",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai471t-revision-guide.pdf",
+    "sourcePages": [
+      235
+    ]
+  },
+  {
+    "courseCode": "23CAI471T",
+    "subject": "Generative AI and Prompt Engineering",
+    "semester": "IV Year • VII Semester",
+    "unit": "3",
+    "title": "Generative Models in NLP",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai471t-revision-guide.pdf",
+    "sourcePages": [
+      235
+    ]
+  },
+  {
+    "courseCode": "23CAI471T",
+    "subject": "Generative AI and Prompt Engineering",
+    "semester": "IV Year • VII Semester",
+    "unit": "4",
+    "title": "Advanced Prompt Engineering & Tools",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai471t-revision-guide.pdf",
+    "sourcePages": [
+      235
+    ]
+  },
+  {
+    "courseCode": "23CAI471T",
+    "subject": "Generative AI and Prompt Engineering",
+    "semester": "IV Year • VII Semester",
+    "unit": "5",
+    "title": "Ethics, Risks, and Applications of Generative AI",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23cai471t-revision-guide.pdf",
+    "sourcePages": [
+      235
+    ]
+  },
+  {
+    "courseCode": "23MAC471U",
+    "subject": "Gender Sensitization",
+    "semester": "IV Year • VII Semester",
+    "unit": "1",
+    "title": "UNDERSTANDING GENDER",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23mac471u-revision-guide.pdf",
+    "sourcePages": [
+      245
+    ]
+  },
+  {
+    "courseCode": "23MAC471U",
+    "subject": "Gender Sensitization",
+    "semester": "IV Year • VII Semester",
+    "unit": "2",
+    "title": "GENDER ROLES AND RELATIONS",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23mac471u-revision-guide.pdf",
+    "sourcePages": [
+      245
+    ]
+  },
+  {
+    "courseCode": "23MAC471U",
+    "subject": "Gender Sensitization",
+    "semester": "IV Year • VII Semester",
+    "unit": "3",
+    "title": "GENDER AND LABOUR",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23mac471u-revision-guide.pdf",
+    "sourcePages": [
+      245
+    ]
+  },
+  {
+    "courseCode": "23MAC471U",
+    "subject": "Gender Sensitization",
+    "semester": "IV Year • VII Semester",
+    "unit": "4",
+    "title": "GENDER-BASED VOILENCE",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23mac471u-revision-guide.pdf",
+    "sourcePages": [
+      245
+    ]
+  },
+  {
+    "courseCode": "23MAC471U",
+    "subject": "Gender Sensitization",
+    "semester": "IV Year • VII Semester",
+    "unit": "5",
+    "title": "GENDER AND CULTURE",
+    "practiceQuestions": 30,
+    "pdf": "../assets/pdfs/23mac471u-revision-guide.pdf",
+    "sourcePages": [
+      245
+    ]
+  }
+]
